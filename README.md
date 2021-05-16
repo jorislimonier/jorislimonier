@@ -3,7 +3,7 @@
 📖 Writing my Bachelor thesis on High Dimensional Regression Models\
 🧬 Studying Longest Common Subsequences\
 🥋 A judo project to determine the score of a throw given a video of the fight\
-🎥 Making programming [YouTube videos](https://www.youtube.com/channel/UCRiPdnPDn3FljsRmFhbMpeg) ➡️ 
+🎥 Making programming YouTube videos 
 <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCRiPdnPDn3FljsRmFhbMpeg">
   <img alt="Youtube" src="https://img.shields.io/badge/Joris LIMONIER (Dataphile)%20-%23FF0000.svg?&style=plastic&logo=YouTube&logoColor=white"/>
 </a>
