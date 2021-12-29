@@ -6,12 +6,6 @@
 target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCRiPdnPDn3FljsRmFhbMpeg">
   <img alt="Youtube" src="https://img.shields.io/badge/Joris LIMONIER (Dataphile)%20-%23FF0000.svg?&style=plastic&logo=YouTube&logoColor=white"/>
 </a>
-
-<div style="height=350px">
 <a href="https://jorislimonier.github.io/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorislimonier&count_private=true&layout=compact&title_color=3C93B4&icon_color=3C93B4&text_color=ffffff&bg_color=000000&langs_count=7" height=100%/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorislimonier&count_private=true&layout=compact&title_color=3C93B4&icon_color=3C93B4&text_color=ffffff&bg_color=000000&langs_count=7" width=50%/>
 </a>
-<a href="https://jorislimonier.github.io/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jorislimonier&count_private=true&include_all_commits=true&show_icons=true&title_color=3C93B4&icon_color=3C93B4&text_color=ffffff&bg_color=000000" height=90% />
-</a>
-</div>
