@@ -1,6 +1,6 @@
 # Ongoing projects
 
-- 📚 Making a Julia course for [Manning Publications](https://www.manning.com/)   ➡️   **NOW AVAILABLE** [here](https://www.manning.com/liveprojectseries/learn-julia-ser?utm_source=jorisl&utm_medium=affiliate&utm_campaign=liveproject_limonier_learn_2_9_22&a_aid=jorisl&a_bid=18156088)
+- 📚 Making a Julia course for [Manning Publications](https://www.manning.com/)   ➡️   **NOW AVAILABLE** [HERE](https://www.manning.com/liveprojectseries/learn-julia-ser?utm_source=jorisl&utm_medium=affiliate&utm_campaign=liveproject_limonier_learn_2_9_22&a_aid=jorisl&a_bid=18156088)
 - 🥋 Determine scores in a judo fight (using Computer Vision)
 - 🎥 Making programming YouTube videos <a
 target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCRiPdnPDn3FljsRmFhbMpeg">
