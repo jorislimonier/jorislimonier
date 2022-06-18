@@ -1,8 +1,9 @@
 # Ongoing projects
 
 - 📚 Making a Julia course for [Manning Publications](https://www.manning.com/)   ➡️   **NOW AVAILABLE** [HERE](https://www.manning.com/liveprojectseries/learn-julia-ser?utm_source=jorisl&utm_medium=affiliate&utm_campaign=liveproject_limonier_learn_2_9_22&a_aid=jorisl&a_bid=18156088)
-- 🥋 Determine scores in a judo fight (using Computer Vision)
+- 🥋 Determine scores in a judo fight, with Computer Vision
 - 🧪 Currently Data Analyst at [Mane](https://www.mane.com/)
+- 🖌️ [Reactive website](https://the-colour-path.herokuapp.com/) using Plotly Dash
 - 🎥 Making programming YouTube videos <a
 target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCRiPdnPDn3FljsRmFhbMpeg">  
   <img alt="Youtube" src="https://img.shields.io/badge/Joris LIMONIER (Dataphile)%20-%23FF0000.svg?&style=plastic&logo=YouTube&logoColor=white"/>
