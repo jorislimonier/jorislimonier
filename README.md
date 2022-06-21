@@ -13,8 +13,7 @@
 
 <hr>
 
-
-<h2 align="center"> 🛠️ Technologies I master 🛠️ </h2>
+<h2 align="center"> 🛠️ Tools I use 🛠️ </h2>
 <h3 align="center">
   <img src="https://img.shields.io/badge/python-3670A0?&style=for-the-badge&logo=python&logoColor=ffdd54" />
 </h3>
@@ -59,10 +58,12 @@
 <div align="center">
   <details>
     <summary>
-        📚 Making a <a href="https://www.manning.com/liveprojectseries/learn-julia-ser?utm_source=jorisl&utm_medium=affiliate&utm_campaign=liveproject_limonier_learn_2_9_22&a_aid=jorisl&a_bid=18156088">Julia course</a> for Manning Publications
+        📚 Published a
+        <a href="https://www.manning.com/liveprojectseries/learn-julia-ser?utm_source=jorisl&utm_medium=affiliate&utm_campaign=liveproject_limonier_learn_2_9_22&a_aid=jorisl&a_bid=18156088">Julia course</a>
+      for Manning Publications
     </summary>
     <p>
-        This course teaches the basics of Julia to newcomers, as well as more intermediate practicioners.
+        This course teaches the basics of Julia for data science to newcomers, as well as more intermediate practicioners.
     </p>
   </details>
   <details>
@@ -83,19 +84,28 @@
       This project is closed-source.
     </p>
   </details>
+  <details>
+    <summary>
+      🖌️ <a href="https://the-colour-path.herokuapp.com/">Reactive website</a> using Plotly Dash
+    </summary>
+    <p>
+      Oriented for Android devices, but desktop and web (almost) come out of the box with Flutter. <br>
+      This project is closed-source.
+    </p>
+  </details>
+  <details>
+    <summary>
+      🎥 Data Science
+      <a href="https://www.youtube.com/channel/UCRiPdnPDn3FljsRmFhbMpeg" target="_blank" rel="noopener noreferrer">YouTube channel</a>
+    </summary>
+    <p>
+      I own a YouTube channel that deals with Data Science and programming in general. So far, videos have been mostly about Julia, but I may diversify the content that is posted as I see fit.
+    </p>
+  </details>
 </div>
 
-
-<!-- - 📚 Making a Julia course for [Manning Publications](https://www.manning.com/)   ➡️   **NOW AVAILABLE** [HERE](https://www.manning.com/liveprojectseries/learn-julia-ser?utm_source=jorisl&utm_medium=affiliate&utm_campaign=liveproject_limonier_learn_2_9_22&a_aid=jorisl&a_bid=18156088)
-- 🥋 Determine scores in a judo fight, with Computer Vision
-- 🧪 Currently Data Analyst at [Mane](https://www.mane.com/)
-- 🖌️ [Reactive website](https://the-colour-path.herokuapp.com/) using Plotly Dash
-- 🎥 Making programming YouTube videos <a
-target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCRiPdnPDn3FljsRmFhbMpeg">  
-  <img alt="Youtube" src="https://img.shields.io/badge/Joris LIMONIER (Dataphile)%20-%23FF0000.svg?&style=plastic&logo=YouTube&logoColor=white"/>
-</a>
 Time spent coding (since May 1st, 2021): 
-<a href="https://wakatime.com/@34351164-48d1-4b56-93eb-d9857f8a14f2"><img src="https://wakatime.com/badge/user/34351164-48d1-4b56-93eb-d9857f8a14f2.svg" alt="Total time coded since May 1 2021" /></a> -->
+<a href="https://wakatime.com/@34351164-48d1-4b56-93eb-d9857f8a14f2"><img src="https://wakatime.com/badge/user/34351164-48d1-4b56-93eb-d9857f8a14f2.svg" alt="Total time spent coding since May 1 2021"/></a> 
 
 
 <hr>
