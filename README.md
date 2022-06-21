@@ -15,11 +15,7 @@
   </samp>
   <br>
   <br>
-  <samp>
-    Profile views since Juna 21st, 2022:
-  </samp>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=jorislimonier&style=for-the-badge&logo=github&label=github">
+  <img src="https://komarev.com/ghpvc/?username=jorislimonier&style=for-the-badge&logo=github">
   <br>
   <br>
   <samp>
