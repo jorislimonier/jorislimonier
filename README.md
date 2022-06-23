@@ -91,7 +91,7 @@
       for Manning Publications
     </summary>
     <p>
-        This course teaches the basics of Julia for data science to newcomers, as well as more intermediate practicioners.
+        This course teaches the basics of Julia for data science to newcomers, as well as more intermediate practicioners. It was sold to close to 100 customers and feedback has been mostly positive so far.
     </p>
   </details>
   <details>
@@ -108,7 +108,8 @@
         📱 The companion app for Judovar
     </summary>
     <p>
-      Oriented for Android devices, but desktop and web (almost) come out of the box with Flutter. <br>
+      Oriented for Android devices, but desktop and web (mostly) come out of the box with Flutter. <br>
+      I learn Flutter on my own, with nothing else that what's freely available online. <br>
       This project is closed-source.
     </p>
   </details>
