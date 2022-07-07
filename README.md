@@ -6,13 +6,16 @@
     </samp>
 </h4>
 <hr>
+<!-- ---------------------------------- -->
 <h2 align="center">
-    🌐 Personal website 🌐
+    🌐 Professional website 🌐
 </h2>
 <p align="center">
     <samp>
         <a href="https://jorislimonier.herokuapp.com/">https://jorislimonier.herokuapp.com/</a>
     </samp>
+    <hr>
+    <!-- ---------------------------------- -->
 <h2 align="center">
     👨‍💻 About me 👨‍💻
 </h2>
@@ -46,6 +49,7 @@
 </p>
 
 <hr>
+<!-- ---------------------------------- -->
 
 <h2 align="center"> 🛠️ Tools I use 🛠️ </h2>
 <h3 align="center">
@@ -118,21 +122,18 @@
     <img
         src="https://img.shields.io/badge/google_colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />&nbsp;&nbsp;&nbsp;
     <img
-        src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
+        src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" />&nbsp;&nbsp;&nbsp;
     <img
         src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 <hr>
+<!-- ---------------------------------- -->
 
 <h2 align="center"> 🚀 Project list 🚀 </h2>
 
 <table border=1 align="center">
-    <!-- <colgroup>
-       <col span="1" style="width: 20%;">
-       <col span="1" style="width: 80%;">
-    </colgroup> -->
     <thead>
         <tr>
             <td align="center">Date</td>
@@ -143,45 +144,47 @@
     <tr>
         <td>2022</td>
         <td>
-            📁 Self-made <a href="https://jorislimonier.herokuapp.com/">Personal website</a> with self-taught web
-            development
+            📁
+            <a href="https://jorislimonier.herokuapp.com/">Professional website</a>
         </td>
         <td>
             <p align="justify">
-                As a Mathematician and Data Science, web development was never part of any curriculum I followed.
-                For years however, I had been thinking about building my own website.
-                I made several attempts starting back from scratch every time, until I built a decent website on my own.
-                Now my website runs on ReactJS & SASS.
+                As a Mathematician and Data Scientist, web development was never part of any curriculum I followed.
+                For years however, I had been thinking about building my own website from scratch.
+                I made several unsuccessful attempts at building a good-looking, fully-functional, multilingual website
+                before succeesing.
+                My projects, personal information, resume are now live online, as well as ways to contact me.
             </p>
         </td>
     </tr>
     <tr>
         <td>2021-2022</td>
         <td>
-            📚 Published a
+            📚
             <a
-                href="https://www.manning.com/liveprojectseries/learn-julia-ser?utm_source=jorisl&utm_medium=affiliate&utm_campaign=liveproject_limonier_learn_2_9_22&a_aid=jorisl&a_bid=18156088">Julia
-                course</a>
-            for Manning Publications
+                href="https://www.manning.com/liveprojectseries/learn-julia-ser?utm_source=jorisl&utm_medium=affiliate&utm_campaign=liveproject_limonier_learn_2_9_22&a_aid=jorisl&a_bid=18156088">
+                Learn Julia in 3 small projects</a>
         </td>
         <td>
             <p align="justify">
-                This course teaches the basics of Julia for data science to newcomers, as well as more intermediate
-                practicioners. It was sold to close to 100 customers and feedback has been mostly positive so far.
+                This course is published by Manning Publications.
+                It teaches Julia for data science to newcomers, as well as more intermediate practicioners.
+                It was sold to close to 100 customers and feedback has been mostly positive so far.
             </p>
         </td>
     </tr>
     <tr>
-        <td>2022</td>
+        <td>2021 - 2022</td>
         <td>
-            🥋 Judovar: A deep learning-based judo video assistant referee
+            🥋 Judovar
         </td>
         <td>
             <p align="justify">
+                Judovar is a deep learning-based judo video assistant referee
+                <br>
                 The goal of the project is to create a deep learning algorithm to automatically detect scores in a video
-                of
-                a
-                judo fight. <br>
+                of a judo fight.
+                <br>
                 This project is closed-source.
             </p>
         </td>
@@ -189,7 +192,7 @@
     <tr>
         <td>2022</td>
         <td>
-            📱 Companion app for Judovar
+            📱 The Judovar app
         </td>
         <td>
             <p align="justify">
@@ -231,6 +234,7 @@
 </table>
 
 <hr>
+<!-- ---------------------------------- -->
 <p align="center">
     <img src="https://wakatime.com/share/@JorisLimonier/5385293f-2fff-4d6b-bf1f-b36c1e544b7a.svg" width=90%>
 </p>
@@ -244,5 +248,6 @@
 </p>
 
 <hr>
+<!-- ---------------------------------- -->
 
 <h2 align="center"> ⬇️ Check Out My Repos ⬇️ </h2>
