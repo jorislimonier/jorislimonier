@@ -85,6 +85,14 @@
 <h2  align="center"> 🚀 Project list 🚀 </h2>
 
 <div align="center">
+<details>
+    <summary>
+        📁 Constructed my <a href="https://jorislimonier.herokuapp.com/">personal website</a> with self-taught web development
+    </summary>
+    <p>
+        My education is in mathematics and Data Science. Web development was never part of any curriculum I followed. For years however, I had been thinking about building my own website. I made several attempts starting back from scratch every time, until I built a decent website on my own. Alongside, I learnt HTML, CSS, JavaScript, SASS, ReactJS, Bootstrap and Tailwind. Now my website runs on ReactJS & SASS.
+    </p>
+  </details>
   <details>
     <summary>
         📚 Published a
