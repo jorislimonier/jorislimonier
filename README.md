@@ -167,9 +167,13 @@
         </td>
         <td>
             <p align="justify">
-                This course is published by Manning Publications.
-                It teaches Julia for data science to newcomers, as well as more intermediate practicioners.
-                It was sold to close to 100 customers and feedback has been mostly positive so far.
+                This is a course published by Manning Publications.
+                <br>
+                This course teaches Julia for data science to newcomers, as well as more intermediate practicioners.
+                By using a project-based approach, students learn new concepts and apply them straight-away.
+                This allows for better understanding and a direct check of whether the concepts were well-understood.
+                <br>
+                The course was sold to close to 100 customers and feedback has been very positive so far.
             </p>
         </td>
     </tr>
@@ -196,8 +200,10 @@
         </td>
         <td>
             <p align="justify">
-                Oriented for Android devices, but desktop and web (mostly) come out of the box with Flutter. <br>
-                I learn Flutter on my own, with nothing else that what's freely available online. <br>
+                Oriented for Android devices, but desktop and web (almost) come out of the box with Flutter.
+                <br>
+                I learn Flutter on my own, with nothing else that what's freely available online.
+                <br>
                 This project is closed-source.
             </p>
         </td>
@@ -205,29 +211,35 @@
     <tr>
         <td>2022</td>
         <td>
-            🖌️ <a href="https://the-colour-path.herokuapp.com/">The colour path</a>: a website that tells your life
-            path
+            🖌️ <a href="https://the-colour-path.herokuapp.com/">The colour path</a>
         </td>
         <td>
             <p align="justify">
-                This is a reactive webiste, written in Plotly Dash. It (supposedly) tells you what your main
-                characteristics
-                are, based on your name and birthdate.
+                The Colour Path is a website that tells your life path based on you name and birthdate.
+                <br>
+                This is a reactive webiste, written in Plotly Dash, with Bootstrap.
+                The customer wanted a website that would display specific information based of several inputs.
+                It (supposedly) tells you what your main characteristics are, based on your name and birthdate.
+                The customer provided all resources and I focused on the computation and interface.
             </p>
         </td>
     </tr>
     <tr>
         <td>2020-present</td>
         <td>
-            🎥 Data Science
+            🎥
             <a href="https://www.youtube.com/channel/UCRiPdnPDn3FljsRmFhbMpeg">YouTube channel</a>
         </td>
         <td>
             <p align="justify">
-                I own a YouTube channel that deals with Data Science and programming in general. So far, videos have
-                been
-                mostly
-                about Julia, but I may diversify the content that is posted as I see fit.
+                I own a YouTube channel that deals with Data Science and programming in general.
+                <br>
+                So far, videos have been mostly about Julia, but I may diversify the content that is posted as I see
+                fit.
+                The channel has a few hundreds subscribers (2022), but gives a good way of communicating with other data
+                science enthusiasts.
+                There are several subscribers that regularly come back whenever I release a video, which gives a sense
+                of a small community.
             </p>
         </td>
     </tr>
