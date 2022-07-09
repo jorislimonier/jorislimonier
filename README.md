@@ -12,7 +12,7 @@
 </h2>
 <p align="center">
     <samp>
-        <a href="https://jorislimonier.github.io//">https://jorislimonier.github.io/</a>
+        <a href="https://jorislimonier.github.io/">https://jorislimonier.github.io/</a>
     </samp>
     <hr>
     <!-- ---------------------------------- -->
@@ -145,7 +145,7 @@
         <td>2022</td>
         <td>
             📁
-            <a href="https://jorislimonier.herokuapp.com/">Professional website</a>
+            <a href="https://jorislimonier.github.io/">Professional website</a>
         </td>
         <td>
             <p align="justify">
