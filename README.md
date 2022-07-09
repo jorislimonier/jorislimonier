@@ -12,7 +12,7 @@
 </h2>
 <p align="center">
     <samp>
-        <a href="https://jorislimonier.herokuapp.com/">https://jorislimonier.herokuapp.com/</a>
+        <a href="https://jorislimonier.github.io//">https://jorislimonier.github.io/</a>
     </samp>
     <hr>
     <!-- ---------------------------------- -->
