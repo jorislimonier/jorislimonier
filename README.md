@@ -184,7 +184,7 @@
         </td>
         <td>
             <p align="justify">
-                Judovar is a deep learning-based judo video assistant referee
+                Judovar is a deep learning-based judo video assistant referee.
                 <br>
                 The goal of the project is to create a deep learning algorithm to automatically detect scores in a video
                 of a judo fight.
@@ -232,7 +232,7 @@
         </td>
         <td>
             <p align="justify">
-                I own a YouTube channel that deals with Data Science and programming in general.
+                I own a YouTube channel that deals with Data Science and programming.
                 <br>
                 So far, videos have been mostly about Julia, but I may diversify the content that is posted as I see
                 fit.
