@@ -26,8 +26,8 @@
         <br>
         I am also a <strong>freelancer</strong>, available for hire.
         <br>
-        I will complete your Data Science & Programming tasks.
-        My previous customers can testify that my work is fast, efficient and serious.
+        I will quickly complete your Data Science & Programming tasks.
+        My previous customers can testify that I work fast, efficiently and seriously.
         My priority will be to fulfill your needs, as well as take your feedback into account.
         As a result, you have the guarantee to reach your goals and send your business to the next level.
         <br>
