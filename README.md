@@ -28,7 +28,7 @@
         <br>
         I will quickly complete your Data Science & Programming tasks.
         My previous customers can testify that I work fast, efficiently and seriously.
-        My priority will be to fulfill your needs, as well as take your feedback into account.
+        My priority will be to fulfill your needs, as well as to take your feedback into account.
         As a result, you have the guarantee to reach your goals and send your business to the next level.
         <br>
         📧 <a href="mailto:joris.limonier@gmail.com">joris.limonier@gmail.com</a> 📧
@@ -152,7 +152,7 @@
                 As a Mathematician and Data Scientist, web development was never part of any curriculum I followed.
                 For years however, I had been thinking about building my own website from scratch.
                 I made several unsuccessful attempts at building a good-looking, fully-functional, multilingual website
-                before succeesing.
+                before succeeding.
                 My projects, personal information, resume are now live online, as well as ways to contact me.
             </p>
         </td>
