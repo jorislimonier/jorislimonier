@@ -154,6 +154,7 @@
                 I made several unsuccessful attempts at building a good-looking, fully-functional, multilingual website
                 before succeeding.
                 My projects, personal information, resume are now live online, as well as ways to contact me.
+                This website is an entry point for the outside world and potential clients.
             </p>
         </td>
     </tr>
