@@ -151,7 +151,7 @@
             <p align="justify">
                 As a Mathematician and Data Scientist, web development was never part of any curriculum I followed.
                 For years however, I had been thinking about building my own website from scratch.
-                I made several unsuccessful attempts at building a good-looking, fully-functional, multilingual website
+                I made several unsuccessful attempts at building a good-looking, fully-functional, bilingual website
                 before succeeding.
                 My projects, personal information, resume are now live online, as well as ways to contact me.
                 This website is an entry point for the outside world and potential clients.
