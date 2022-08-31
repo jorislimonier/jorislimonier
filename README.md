@@ -170,9 +170,9 @@
             <p align="justify">
                 This is a course published by Manning Publications.
                 <br>
-                This course teaches Julia for data science to newcomers, as well as more intermediate practicioners.
+                This course teaches Julia for data science to newcomers as well as more intermediate practicioners.
                 By using a project-based approach, students learn new concepts and apply them straight-away.
-                This allows for better understanding and a direct check of whether the concepts were well-understood.
+                This allows for better understanding and a direct check of whether the concepts are well-understood.
                 <br>
                 The course was sold to close to 100 customers and feedback has been very positive so far.
             </p>
