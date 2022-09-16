@@ -21,10 +21,7 @@
 </h2>
 <p align="center">
     <samp>
-        I am a <strong>Mathematician</strong> & <strong>Data Scientist</strong>. Currently employed as a Data Analyst at
-        <a href="https://mane.com">Mane</a>.
-        <br>
-        I am also a <strong>freelancer</strong>, available for hire.
+        I am a <strong>Mathematician</strong> & <strong>Data Scientist</strong>. Currently working as a <strong>freelancer</strong>, available for hire.
         <br>
         I will quickly complete your Data Science & Programming tasks.
         My previous customers can testify that I work fast, efficiently and seriously.
