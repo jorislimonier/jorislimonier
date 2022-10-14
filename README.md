@@ -143,7 +143,7 @@
     <td>
       <details>
         <summary>
-          WhatsApp Message Analysis
+          <strong>🕵🏼‍♂️ WhatsApp Message Analysis</strong>
           (<a href="https://github.com/jorislimonier/whatsapp-chat-analysis/">link</a>)
         </summary>
         <p>An analysis of WhatsApp messages containing:</p>
@@ -160,7 +160,7 @@
     <td>
       <details>
         <summary>
-          Workshop: Getting Started with Julia
+          <strong>⚙️ Workshop: Getting Started with Julia</strong>
           (<a href="https://github.com/jorislimonier/workshop-getting-started-with-julia">link</a>)
         </summary>
         <p>I held a workshop for <a href="https://www.linkedin.com/in/jousefmurad/">Jousef Murad</a> (~90K followers)
@@ -178,7 +178,7 @@
     <td>
       <details>
         <summary>
-          Learning C# basics
+          <strong>👶 Learning C# basics</strong>
           (<a href="https://github.com/jorislimonier/learn-c-sharp">link</a>)
         </summary>
         <p>In order to broaden my horizons and get ready for upcoming opportunities, I decided to spend some time
@@ -195,7 +195,7 @@
     <td>
       <details>
         <summary>
-          Learning Scala basics
+          <strong>👶 Learning Scala basics</strong>
           (<a href="https://github.com/jorislimonier/learn-scala">link</a>)
         </summary>
         <p>In order to broaden my horizons and get ready for upcoming opportunities, I decided to spend some time
@@ -212,7 +212,8 @@
     <td>2022</td>
     <td>
       <details>
-        <summary>📁 Professional website
+        <summary>
+          <strong>📁 Professional website</strong>
           (<a href="https://jorislimonier.github.io/">link</a>)
         </summary>
         <p align="justify">
@@ -231,7 +232,8 @@
     <td>2021-2022</td>
     <td>
       <details>
-        <summary>📚 Learn Julia in 3 small projects
+        <summary>
+          <strong>📚 Learn Julia in 3 small projects</strong>
           (<a
             href="https://www.manning.com/liveprojectseries/learn-julia-ser?utm_source=jorisl&utm_medium=affiliate&utm_campaign=liveproject_limonier_learn_2_9_22&a_aid=jorisl&a_bid=18156088">
             link
@@ -253,7 +255,9 @@
     <td>2021 - 2022</td>
     <td>
       <details>
-        <summary>🥋 Judovar</summary>
+        <summary>
+          <strong>🥋 Judovar</strong>
+        </summary>
         <p align="justify">
           Judovar is a deep learning-based judo video assistant referee.
           <br>
@@ -269,7 +273,9 @@
     <td>2022</td>
     <td>
       <details>
-        <summary>📱 The Judovar app</summary>
+        <summary>
+          <strong>📱 The Judovar app</strong>
+        </summary>
         <p align="justify">
           Oriented for Android devices, but desktop and web (almost) come out of the box with Flutter.
           <br>
@@ -284,7 +290,9 @@
     <td>2022</td>
     <td>
       <details>
-        <summary>🖌️ The colour path</summary>
+        <summary>
+          <strong>🖌️ The Colour Path</strong>
+        </summary>
         (<a href="https://the-colour-path.herokuapp.com/">link</a>)
         <p align="justify">
           The Colour Path is a website that tells your life path based on you name and birthdate.
@@ -302,7 +310,7 @@
     <td>
       <details>
         <summary>
-          🎥 YouTube channel
+          <strong>🎥 YouTube channel</strong>
           (<a href="https://www.youtube.com/channel/UCRiPdnPDn3FljsRmFhbMpeg">link</a>)
         </summary>
         <p align="justify">
