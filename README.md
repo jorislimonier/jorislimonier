@@ -26,7 +26,7 @@
     <br>
     I will quickly complete your Data Science & Programming tasks.
     My previous customers can testify that I work fast, efficiently and seriously.
-    My priority will be to fulfill your needs, as well as to take your feedback into account.
+    My priority will be to fulfill your needs while taking your feedback into account.
     As a result, you have the guarantee to reach your goals and send your business to the next level.
     <br>
     📧 <a href="mailto:joris.limonier@gmail.com">joris.limonier@gmail.com</a> 📧
