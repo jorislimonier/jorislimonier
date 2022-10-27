@@ -150,7 +150,7 @@
         <ul>
           <li>Data Analysis (all kinds of plots)</li>
           <li>Sentiment analysis</li>
-          <li>A summary of most used words (with TF-IDF)</li>
+          <li>A summary of most used words (using TF-IDF)</li>
         </ul>
       </details>
     </td>
