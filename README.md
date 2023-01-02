@@ -143,6 +143,25 @@
     <td>
       <details>
         <summary>
+          <strong>🌐 Deployment of a ML model</strong>
+          (<a href="https://jorislimonier.github.io/data%20science/project/deploy-ml-model">post</a>,
+          <a href="https://github.com/jorislimonier/deploy-ML-model/">repo</a>)
+        </summary>
+        <p>The deployment of a ML model on the cloud, accessible through an API:</p>
+        <ul>
+          <li>Make a (simple, dummy) Machine Learning model</li>
+          <li>Containerize it with Docker</li>
+          <li>Make an API for people to query it </li>
+          <li>Make the API available through Amazon's AWS EC2</li>
+        </ul>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td>2022</td>
+    <td>
+      <details>
+        <summary>
           <strong>🕵🏼‍♂️ WhatsApp Message Analysis</strong>
           (<a href="https://github.com/jorislimonier/whatsapp-chat-analysis/">link</a>)
         </summary>
