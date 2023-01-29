@@ -152,7 +152,7 @@
           <li>Make a (simple, dummy) Machine Learning model</li>
           <li>Containerize it with Docker</li>
           <li>Make an API for people to query it </li>
-          <li>Make the API available through Amazon's AWS EC2</li>
+          <li>Make the API publicly available through Amazon's AWS EC2</li>
         </ul>
       </details>
     </td>
